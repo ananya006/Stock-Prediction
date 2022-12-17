@@ -1,4 +1,4 @@
-# TITLE : STOCK MARKET PREDICTION
+# TITLE : STOCK PREDICTION
 
 ## 1. Methodology
 This project utilizes Deep Learning models, Long-Short Term Memory (LSTM) Neural Network algorithm, to predict stock prices. For data with timeframes recurrent neural networks (RNNs) come in handy but recent researches have shown that LSTM, networks are the most popular and useful variants of RNNs. 
@@ -23,8 +23,6 @@ Input : Stock Data From Google Finance
 <br> Output : Predicted Stock Price 
 
 ## 4. Live Link
-
-
 
 
 ## 5. Screenshot of Interface
