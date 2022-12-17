@@ -23,8 +23,7 @@ Input : Stock Data From Google Finance
 <br> Output : Predicted Stock Price 
 
 ## 4. Live Link
-
-
+https://ananya006.github.io/Stock-Prediction/ 
 ## 5. Screenshot of Interface
 
 ![image](https://user-images.githubusercontent.com/64203412/208243661-7f051f94-5a3a-4fd7-a1f3-255d0376b7bd.png)
